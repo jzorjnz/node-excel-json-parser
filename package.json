@@ -19,6 +19,6 @@
   "dependencies": {
     "node-excel-export": "^1.4.4",
     "read-excel-file": "^4.0.5",
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   }
 }

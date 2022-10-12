@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "node-excel-export": "^1.4.4",
-    "read-excel-file": "^4.0.5",
+    "read-excel-file": "^5.5.0",
     "xlsx": "^0.15.4"
   }
 }
